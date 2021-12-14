@@ -27,3 +27,8 @@ p {
     font-size: 21px;
     color:gray;
 }
+
+.end-logo {
+    text-align: right;
+    color:gray
+}
